@@ -1,10 +1,16 @@
-# Zion AI Spare Parts Finder
+# 🌐 Part of the Zion App Network
 
-AI part-number intelligence for IT field services.
+**Zion AI Spare Parts Finder** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-field](https://github.com/Zion-support/zion-field)
-- Related: [zion-ai-spare-parts-matcher](https://github.com/Zion-support/zion-ai-spare-parts-matcher) · [spare-price-scout](https://github.com/Zion-support/spare-price-scout) · [depot-stock-balancer](https://github.com/Zion-support/depot-stock-balancer) · [zion-ai-field-dispatch](https://github.com/Zion-support/zion-ai-field-dispatch)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+
+## Related apps
+- [Zion AI Spare Parts Matcher](https://github.com/Zion-support/zion-ai-spare-parts-matcher)
+- [Zion AI Warranty Tracker](https://github.com/Zion-support/zion-ai-warranty-tracker)
+- [Zion AI Supply Chain](https://github.com/Zion-support/zion-ai-supply-chain)
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
